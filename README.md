@@ -2,6 +2,8 @@
 
 A Node.js service that parses PhonePe transaction history text files and converts them into structured JSON data.
 
+> PhonePe emails a password protected PDF on demand. Needed to convert it to json for my expense tracking app, so here's a service that does that.
+
 ## Features
 
 - Parses PhonePe transaction history text files
