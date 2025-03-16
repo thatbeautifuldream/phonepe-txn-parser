@@ -15,7 +15,7 @@ A Node.js service that parses PhonePe transaction history text files and convert
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- pnpm
 
 ## Installation
 
